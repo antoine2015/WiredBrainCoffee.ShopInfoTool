@@ -9,6 +9,7 @@ namespace WiredBrainCoffee.ShopInfoTool
         {
             Console.WriteLine("Wired Brain Coffee - Shop Info Tool!");
 
+            Console.WriteLine("remote änderung");
             Console.WriteLine("local änderung ");
 
             var coffeeShopDataProvider = new CoffeeShopDataProvider();
