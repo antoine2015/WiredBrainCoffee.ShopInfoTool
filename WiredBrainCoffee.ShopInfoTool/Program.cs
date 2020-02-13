@@ -6,15 +6,15 @@ namespace WiredBrainCoffee.ShopInfoTool
 {
     class Program
     {
-        // change made from featureB
-        // change made for feature 
+        
+       
         static void Main(string[] args)
         {
             Console.WriteLine("Wired Brain Coffee - Shop Info Tool!");
 
             Console.WriteLine("remote änderung");
            
-            // changes
+           
             var coffeeShopDataProvider = new CoffeeShopDataProvider();
 
             while (true)
