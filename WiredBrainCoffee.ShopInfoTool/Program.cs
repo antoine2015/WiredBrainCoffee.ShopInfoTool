@@ -6,6 +6,9 @@ namespace WiredBrainCoffee.ShopInfoTool
 {
     class Program
     {
+        // hello from featureB
+
+
         // change made from featureB
         // change made for feature 
         static void Main(string[] args)
