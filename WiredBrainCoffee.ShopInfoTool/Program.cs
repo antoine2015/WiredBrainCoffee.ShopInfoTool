@@ -6,6 +6,7 @@ namespace WiredBrainCoffee.ShopInfoTool
 {
     class Program
     {
+        // change made for feature 
         static void Main(string[] args)
         {
             Console.WriteLine("Wired Brain Coffee - Shop Info Tool!");
