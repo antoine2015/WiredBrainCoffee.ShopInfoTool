@@ -6,6 +6,8 @@ namespace WiredBrainCoffee.ShopInfoTool
 {
     class Program
     {
+        //adding from newbranch
+       
         
        // change from master
         static void Main(string[] args)
