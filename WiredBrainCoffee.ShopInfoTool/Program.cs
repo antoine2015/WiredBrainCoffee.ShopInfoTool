@@ -10,6 +10,7 @@ namespace WiredBrainCoffee.ShopInfoTool
        
         
        // change from master
+       // second change from master
         static void Main(string[] args)
         {
             Console.WriteLine("Wired Brain Coffee - Shop Info Tool!");
