@@ -12,7 +12,7 @@ namespace WiredBrainCoffee.ShopInfoTool
 
             Console.WriteLine("remote änderung");
            
-
+            // changes
             var coffeeShopDataProvider = new CoffeeShopDataProvider();
 
             while (true)
